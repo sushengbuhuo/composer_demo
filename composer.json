@@ -1,0 +1,19 @@
+{
+    "name": "sushengbuhuo/composer_demo",
+    "description": "a php composer demo",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "suping",
+            "email": "suping3@staff.sina.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/"
+        }
+    }
+}
