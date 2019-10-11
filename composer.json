@@ -1,7 +1,6 @@
 {
     "name": "sushengbuhuo/composer_demo",
     "description": "a php composer demo",
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
